@@ -1,1 +1,2 @@
 # odin-recipes
+This is a website where I will create a website and provide links to various webpages which contain recipes. By the end of the project, I will have demonstrated the basic skills of creating a website and linking it to other websites.
